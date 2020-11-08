@@ -16,7 +16,8 @@ B)Based on the images or links or paragraphs provided by the user, we provide wi
 * Transformer Networks for Q/A Generation 
 * Cosine similarity for Answer Verification
 * Streamlit for web app deployment
-The glove twitter dataset used  [link]https://drive.google.com/file/d/17j_PqnNXRAAzo060ooud3qmvzvCjA317/view?usp=sharing/.(Since this was large enough, we couldnot upload it in github)
+The glove twitter dataset used  [link]https://drive.google.com/file/d/17j_PqnNXRAAzo060ooud3qmvzvCjA317/view?usp=sharing/.
+(Since this was large enough, we couldnot upload it in github)
 
 
 ### Installation
