@@ -9,13 +9,13 @@ Which will highly benefit them for reading and last minute revision
 B)Based on the images or links or paragraphs provided by the user, we provide with a quiz generated upon the topic given in the texts provided by them and also check the correctness of the answers  
 
 ### Tech Stack and Algorithms used
-1)Python Base Programming Language 
-2)OpenCv and Pytesseract for OCR implementation
-3)BeautifulSoup4 as a text parser
-4)NLTK for text summarization
-5)Transformer Networks for Q/A Generation 
-7)Cosine similarity for Answer Verification
-6)Streamlit for web app deployment
+* Python Base Programming Language 
+* OpenCv and Pytesseract for OCR implementation
+* BeautifulSoup4 as a text parser
+* NLTK for text summarization
+* Transformer Networks for Q/A Generation 
+* Cosine similarity for Answer Verification
+* Streamlit for web app deployment
 
 ### Installation
 To run the jupyter notebooks, make sure you have anaconda already set up, then.
