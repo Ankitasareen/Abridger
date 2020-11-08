@@ -1,0 +1,16 @@
+opencv_python==4.4.0.42
+torch==1.6.0
+gensim==3.8.3
+transformers==3.0.0
+pytesseract==0.3.6
+tqdm==4.51.0
+numpy==1.18.5
+pyttsx3==2.90
+Unidecode==1.1.1
+streamlit==0.69.2
+nltk==3.5
+apex==0.9.10dev
+beautifulsoup4==4.9.3
+nlp==0.4.0
+Pillow==8.0.1
+scikit_learn==0.23.2
