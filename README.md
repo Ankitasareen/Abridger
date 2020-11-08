@@ -26,7 +26,7 @@ To run the jupyter notebooks, make sure you have anaconda already set up, then.
 * Activate conda environment in cmd 
 
 To run the interactive UI for data visualisation deployed in streamlit,
-* streamlit run app_summarize.py in conda envt.
+* streamlit run app_summarize.py in conda env.
 
 
 
