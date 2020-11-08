@@ -1,4 +1,4 @@
-# Abridger
+# Learnex
 ##### A ML curated study tool that helps the students to prepare with their tests and assignments at the last moment.😎
 This project is built during HackCBS.
 &NewLine;
