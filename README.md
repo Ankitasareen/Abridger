@@ -8,7 +8,7 @@ A)In this, we provide an easy interface where students can either provide an ima
 Which will highly benefit them for reading and last minute revision
 B)Based on the images or links or paragraphs provided by the user, we provide with a quiz generated upon the topic given in the texts provided by them and also check the correctness of the answers  
 
-### Tech Stack and Algorithms used
+### Tech Stack and Dataset used
 * Python Base Programming Language 
 * OpenCv and Pytesseract for OCR implementation
 * BeautifulSoup4 as a text parser
@@ -16,6 +16,8 @@ B)Based on the images or links or paragraphs provided by the user, we provide wi
 * Transformer Networks for Q/A Generation 
 * Cosine similarity for Answer Verification
 * Streamlit for web app deployment
+The glove twitter dataset used  [link]https://drive.google.com/file/d/17j_PqnNXRAAzo060ooud3qmvzvCjA317/view?usp=sharing/.(Since this was large enough, we couldnot upload it in github)
+
 
 ### Installation
 To run the jupyter notebooks, make sure you have anaconda already set up, then.
@@ -23,7 +25,7 @@ To run the jupyter notebooks, make sure you have anaconda already set up, then.
 * Activate conda environment in cmd 
 
 To run the interactive UI for data visualisation deployed in streamlit,
-* streamlit run app2.py in conda envt.
+* streamlit run app_summarize.py in conda envt.
 
 
 
