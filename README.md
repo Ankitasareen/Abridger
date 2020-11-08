@@ -1,4 +1,4 @@
-# Abridger
+# LEARNEX
 1)Python Base Programming Language 
 
 2)OpenCv and Pytesseract for OCR implementation
